@@ -1,7 +1,9 @@
 # SDRSharp.GpredictConnector
 Plugin to connect Gpredict to SDRSharp
 ## download
-* latest compiled version is available on github [https://github.com/alexwahl/SDRSharp.GpredictConnector/releases/latest](https://github.com/alexwahl/SDRSharp.GpredictConnector/releases/latest)
+* bugfix release can be downloaded here until I get some feedback from Alexwahle [https://github.com/Jansemar/SDRSharp.GpredictConnector/releases/](https://github.com/Jansemar/SDRSharp.GpredictConnector/releases/)
+
+
 ## install
 * Just copy the SDRSharp.GpredictConnector.dll into your SDRSharp directory.
 * add the "magic line" to your plugins.xml file
